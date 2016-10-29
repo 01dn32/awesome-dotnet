@@ -160,6 +160,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Bundler](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
 * [SquishIt](https://github.com/jetheredge/SquishIt) - Lets you *easily* bundle some css and javascript
 
+
 ## Authentication and Authorization
 
 * [ASP.NET Identity](https://aspnetidentity.codeplex.com/) - New membership system for ASP.NET applications
@@ -176,6 +177,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [CLR via C#](https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457) - Dig deep and master the intricacies of the common language runtime, C#, and .NET development. **[$]**
 * [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp) - teaches how to best leverage the functional features of the C# language. **[$]**
 * [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core) - shows you how to build maintainable, secure and operations-friendly microservices using Nancy and .NET Core. **[$]**
+* [Professional C# 6 and .NET Core 1.0](http://www.wrox.com/WileyCDA/WroxTitle/Professional-C-6-and-NET-Core-1-0.productCd-111909660X.html) - all about C# 6 with .NET Core, WPF, UWP, and ASP.NET Core. **[$]**
 
 ## Build Automation
 
